@@ -49,11 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/leeco/msm8996-common/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/leeco/msm8996-common/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
-    vendor/leeco/msm8996-common/proprietary/etc/cne/wqeclient/profile1.xml:system/etc/cne/wqeclient/profile1.xml \
-    vendor/leeco/msm8996-common/proprietary/etc/cne/wqeclient/profile2.xml:system/etc/cne/wqeclient/profile2.xml \
-    vendor/leeco/msm8996-common/proprietary/etc/cne/wqeclient/profile3.xml:system/etc/cne/wqeclient/profile3.xml \
-    vendor/leeco/msm8996-common/proprietary/etc/cne/wqeclient/profile4.xml:system/etc/cne/wqeclient/profile4.xml \
-    vendor/leeco/msm8996-common/proprietary/etc/cne/wqeclient/profile5.xml:system/etc/cne/wqeclient/profile5.xml \
     vendor/leeco/msm8996-common/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/leeco/msm8996-common/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/leeco/msm8996-common/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
